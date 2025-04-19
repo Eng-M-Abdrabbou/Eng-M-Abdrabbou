@@ -69,9 +69,9 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
 
 ## 🌱 I’m currently learning
 
-* Learning also rigorous testing through **Test-Driven Development (TDD)**.
-
 * Improving my knowledge of **web application security**.
+
+* Learning also rigorous testing through **Test-Driven Development (TDD)**.
 
 * Focusing more on **database performance tuning** (PostgreSQL/MySQL) trying to use Apache Kafka.
 
