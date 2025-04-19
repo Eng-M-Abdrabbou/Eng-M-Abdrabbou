@@ -23,16 +23,14 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
 
 ###
 
-<p align="left">- 🔭 I’m currently working as a <b>Software Engineer (Full Stack & AI/ML)</b> @ <b>IEEE</b>, focusing on impactful projects like <b>VisionAid</b>.
+<p align="left">- 🔭 I’m currently working as a <b>Software Engineer (Full Stack & AI/ML Eng)</b> @ <b>IEEE</b>, focusing on impactful projects like <b>VisionAid</b>.
 
 <br>- 🌱 I’m continuously exploring advanced **AI/ML techniques**, **scalable cloud architectures (AWS, Kubernetes)**, and **distributed systems**.
 
 <br>- 🎯 Driven by building accessible technology, like the **VisionAid** app helping visually impaired users navigate their environment with **92% accuracy**.
 
 <br>- 💡 Proven ability to dramatically improve system performance, evidenced by reducing HR processing time from **48 hours to under 25 seconds** for the BASYS project.
-
-<br>- 🎓 **Honors Graduate** in Software Engineering from Al Ain University (3.81 CGPA).
-
+<!-- <br>- 🎓 **Honors Graduate** in Software Engineering from Al Ain University (3.81 CGPA).-->
 <br>- 🏆 Proud recipient of many awards in diverse fields of Software Engineering.</p>
 
 
@@ -47,20 +45,20 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
       <p align="center">
         <img src="assets\6ccc42cb-b882-40ea-b920-23e57842a678.png" alt="Nexus Predictive Harmonizer Diagram/Concept" width="400"/>
       </p>
-      * **'Nexus Predictive Harmonizer'**: An engine for detecting anomalies in real-time from complex data streams using advanced inference techniques.
+      Nexus Predictive Harmonizer: <br> An engine for detecting anomalies in real-time from complex data streams using advanced inference techniques.
     </td>
     <td valign="top">
       <p align="center">
         <img src="assets\ChatGPT Image Apr 19, 2025, 04_14_34 AM.png" alt="Cosmic Canvas UI/3D Model Screenshot" width="400"/>
       </p>
-      * **'Cosmic Canvas'**: A full-stack e-commerce platform using Spring Boot (Backend), React.js (Frontend), and Three.js for cool 3D product views.
+      Cosmic Canvas: <br> A full-stack e-commerce platform using Spring Boot (Backend), React.js (Frontend), and Three.js for cool 3D product views.
     </td>
     <td valign="top">
       <p align="center">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2diZjU5dTFxaWNtdjhlMGRtZnI2dGFnMXUzYnBmejYxZ3dpYWp6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abDnUPDkOC05QU8/giphy.gif" alt="Screenshot of Next.js Portfolio" width="400"/>
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2diZjU5dTFxaWNtdjhlMGRtZnI2dGFnMXUzYnBmejYxZ3dpYWp6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abDnUPDkOC05QU8/giphy.gif" alt="Screenshot of Next.js Portfolio" width="300"/>
         <br/> under construction
       </p>
-      *   Enhancing my **Personal Portfolio Website**: Boosting performance and adding new interactive features using Next.js.
+      Enhancing my Personal Portfolio Website: <br> Boosting performance and adding new interactive features using Next.js.
     </td>
   </tr>
 </table>
@@ -179,7 +177,7 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
 </div>
 
 ###
-**Other Skills:** `Matlab`,`Torchvision`, `Scikit-learn`, `REST APIs`, `Bootstrap Studio`, `Spline`, `Prompt Engineering`, `Data Modelling`, `Agile/Scrum`
+**Other Skills:** `Matlab`,`Torchvision`, `Scikit-learn`, `REST APIs`, `Bootstrap Studio`, `Spline`, `Data Modelling`, `Agile/Scrum`
 
 ### ✨ Featured Projects
 
@@ -253,20 +251,18 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
 ###
 
 ### Git Your Snake On!
- 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/Eng-M-Abdrabbou/Eng-M-Abdrabbou/output/snake.svg" alt="Snake animation" />
 
 ###
-
+<!--
 ### Pac-Man Bytes the Repo
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eng-M-Abdrabbou/Eng-M-Abdrabbou/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eng-M-Abdrabbou/Eng-M-Abdrabbou/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Eng-M-Abdrabbou/Eng-M-Abdrabbou/output/pacman-contribution-graph.svg">
 </picture>
-
+-->
 
 <h2 align="left">📊 Stats</h2>
 
