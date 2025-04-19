@@ -186,7 +186,7 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-M-Abdrabbou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&rank_icon=github&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eng-M-Abdrabbou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide=contribs&rank_icon=github&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Eng-M-Abdrabbou&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 <div align="center">
