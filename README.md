@@ -69,13 +69,11 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
 
 ## 🌱 I’m currently learning
 
-
-* Focusing more on **database performance tuning** (PostgreSQL/MySQL) trying to use Kafka.
-
 * Learning also rigorous testing through **Test-Driven Development (TDD)**.
 
 * Improving my knowledge of **web application security**.
 
+* Focusing more on **database performance tuning** (PostgreSQL/MySQL) trying to use Apache Kafka.
 
 
 <h2 align="left">🛠️ Technical Skills</h2>
