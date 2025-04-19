@@ -1,5 +1,8 @@
-<h2 align="center">Hi 👋! My name is Mahmoud Abdrabbou</h2>
-<h3 align="center"> A Software Engineer </h3>
+<!--<h2 align="center">Hi 👋! My name is Mahmoud Abdrabbou</h2>-->
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=D81AED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B!+My+name+is+Mahmoud+Abdrabbou;Welcome+to+my+Github+profile!" alt="Typing SVG" /></a>
+</div>
+<!-- <h3 align="center"> A Software Engineer </h3> -->
 
 ###
 
