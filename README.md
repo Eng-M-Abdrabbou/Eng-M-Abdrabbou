@@ -45,13 +45,13 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
   <tr>
     <td valign="top">
       <p align="center">
-        <img src="assets\6ccc42cb-b882-40ea-b920-23e57842a678.png" alt="Nexus Predictive Harmonizer Diagram/Concept" width="400"/>
+        <img src="assets\Nexus.png" alt="Nexus Predictive Harmonizer Diagram/Concept" width="400"/>
       </p>
       * **'Nexus Predictive Harmonizer'**: An engine for detecting anomalies in real-time from complex data streams using advanced inference techniques.
     </td>
     <td valign="top">
       <p align="center">
-        <img src="assets\ChatGPT Image Apr 19, 2025, 04_14_34 AM.png" alt="Cosmic Canvas UI/3D Model Screenshot" width="400"/>
+        <img src="assets\CC.png" alt="Cosmic Canvas UI/3D Model Screenshot" width="400"/>
       </p>
       * **'Cosmic Canvas'**: A full-stack e-commerce platform using Spring Boot (Backend), React.js (Frontend), and Three.js for cool 3D product views.
     </td>
