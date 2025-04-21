@@ -1,5 +1,8 @@
-<h2 align="center">Hi 👋! My name is Mahmoud Abdrabbou</h2>
-<h3 align="center"> A Software Engineer </h3>
+<!--<h2 align="center">Hi 👋! My name is Mahmoud Abdrabbou</h2>-->
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=D81AED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B!+My+name+is+Mahmoud+Abdrabbou;Welcome+to+my+Github+profile!" alt="Typing SVG" /></a>
+</div>
+<!-- <h3 align="center"> A Software Engineer </h3> -->
 
 ###
 
@@ -23,16 +26,14 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
 
 ###
 
-<p align="left">- 🔭 I’m currently working as a <b>Software Engineer (Full Stack & AI/ML)</b> @ <b>IEEE</b>, focusing on impactful projects like <b>VisionAid</b>.
+<p align="left">- 🔭 I’m currently working as a <b>Software Engineer (Full Stack & AI/ML Eng)</b> @ <b>IEEE</b>, focusing on impactful projects like <b>VisionAid</b>.
 
 <br>- 🌱 I’m continuously exploring advanced **AI/ML techniques**, **scalable cloud architectures (AWS, Kubernetes)**, and **distributed systems**.
 
 <br>- 🎯 Driven by building accessible technology, like the **VisionAid** app helping visually impaired users navigate their environment with **92% accuracy**.
 
 <br>- 💡 Proven ability to dramatically improve system performance, evidenced by reducing HR processing time from **48 hours to under 25 seconds** for the BASYS project.
-
-<br>- 🎓 **Honors Graduate** in Software Engineering from Al Ain University (3.81 CGPA).
-
+<!-- <br>- 🎓 **Honors Graduate** in Software Engineering from Al Ain University (3.81 CGPA).-->
 <br>- 🏆 Proud recipient of many awards in diverse fields of Software Engineering.</p>
 
 
@@ -47,20 +48,20 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
       <p align="center">
         <img src="assets\Nexus.png" alt="Nexus Predictive Harmonizer Diagram/Concept" width="400"/>
       </p>
-      * **'Nexus Predictive Harmonizer'**: An engine for detecting anomalies in real-time from complex data streams using advanced inference techniques.
+      Nexus Predictive Harmonizer: <br> An engine for detecting anomalies in real-time from complex data streams using advanced inference techniques.
     </td>
     <td valign="top">
       <p align="center">
         <img src="assets\CC.png" alt="Cosmic Canvas UI/3D Model Screenshot" width="400"/>
       </p>
-      * **'Cosmic Canvas'**: A full-stack e-commerce platform using Spring Boot (Backend), React.js (Frontend), and Three.js for cool 3D product views.
+      Cosmic Canvas: <br> A full-stack e-commerce platform using Spring Boot (Backend), React.js (Frontend), and Three.js for cool 3D product views.
     </td>
     <td valign="top">
       <p align="center">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2diZjU5dTFxaWNtdjhlMGRtZnI2dGFnMXUzYnBmejYxZ3dpYWp6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abDnUPDkOC05QU8/giphy.gif" alt="Screenshot of Next.js Portfolio" width="400"/>
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2diZjU5dTFxaWNtdjhlMGRtZnI2dGFnMXUzYnBmejYxZ3dpYWp6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abDnUPDkOC05QU8/giphy.gif" alt="Screenshot of Next.js Portfolio" width="300"/>
         <br/> under construction
       </p>
-      *   Enhancing my **Personal Portfolio Website**: Boosting performance and adding new interactive features using Next.js.
+      Enhancing my Personal Portfolio Website: <br> Boosting performance and adding new interactive features using Next.js.
     </td>
   </tr>
 </table>
@@ -68,13 +69,11 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
 
 ## 🌱 I’m currently learning
 
-
-* Focusing more on **database performance tuning** (PostgreSQL/MySQL) trying to use Kafka.
+* Improving my knowledge of **web application security**.
 
 * Learning also rigorous testing through **Test-Driven Development (TDD)**.
 
-* Improving my knowledge of **web application security**.
-
+* Focusing more on **database performance tuning** (PostgreSQL/MySQL) trying to use Apache Kafka.
 
 
 <h2 align="left">🛠️ Technical Skills</h2>
@@ -179,7 +178,23 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
 </div>
 
 ###
-**Other Skills:** `Matlab`,`Torchvision`, `Scikit-learn`, `REST APIs`, `Bootstrap Studio`, `Spline`, `Prompt Engineering`, `Data Modelling`, `Agile/Scrum`
+**Other Skills:** `Matlab`,`Torchvision`, `Scikit-learn`, `REST APIs`, `Bootstrap Studio`, `Spline`, `Data Modelling`, `Agile/Scrum`
+
+<h2 align="left">📊 Stats</h2>
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eng-M-Abdrabbou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide=contribs&rank_icon=github&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Eng-M-Abdrabbou&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eng-M-Abdrabbou&locale=en&hide_title=false&layout=compact&hide=html&langs_count=20&theme=midnight-purple&hide_border=false" height="300" alt="languages graph" />
+</div>
+
+###
+
 
 ### ✨ Featured Projects
 
@@ -253,9 +268,7 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
 ###
 
 ### Git Your Snake On!
- 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/Eng-M-Abdrabbou/Eng-M-Abdrabbou/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -268,18 +281,6 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
 </picture>
 
 
-<h2 align="left">📊 Stats</h2>
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-M-Abdrabbou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eng-M-Abdrabbou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Eng-M-Abdrabbou&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
 
 <!-- <div align="center">
   
