@@ -168,8 +168,6 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
   <img width="12" />
   <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="30" alt="eclipseide logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="30" alt="socketio logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="30" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" alt="arduino logo"  />
