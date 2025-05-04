@@ -265,11 +265,13 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
 
 ###
 
+<!--
 ### Git Your Snake On!
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Eng-M-Abdrabbou/Eng-M-Abdrabbou/output/snake.svg" alt="Snake animation" />
 
 ###
+-->
 
 ### Pac-Man Bytes the Repo
 <picture>
