@@ -263,17 +263,16 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
   <img src="https://profile-counter.glitch.me/Eng-M-Abdrabbou/count.svg?"  />
 </div>
 
-###
 
-<!--
-### Git Your Snake On!
-<br clear="both">
-<img src="https://raw.githubusercontent.com/Eng-M-Abdrabbou/Eng-M-Abdrabbou/output/snake.svg" alt="Snake animation" />
 
-###
--->
+### 🏆 **Profile Trophies**
 
-### Pac-Man Bytes the Repo
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eng-M-Abdrabbou&theme=dark_lover&no-bg=true&rank=-C&margin-w=25&title=-issues,-pullrequests,-reviews)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+### **Pac-Man Bytes the Repo**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eng-M-Abdrabbou/Eng-M-Abdrabbou/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eng-M-Abdrabbou/Eng-M-Abdrabbou/output/pacman-contribution-graph.svg">
