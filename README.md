@@ -23,8 +23,10 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
 ###
 
 <h2 align="left">🚀 A Little More About Me</h2>
+<details>
+<summary>❯ View details</summary>
 
-###
+<br> <!-- Add a little space after the summary for visual separation -->
 
 <p align="left">- 🔭 I’m currently working as a <b>Software Engineer (Full Stack & AI/ML Eng)</b> @ <b>IEEE</b>, focusing on impactful projects like <b>VisionAid</b>.
 
@@ -36,11 +38,11 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
 <!-- <br>- 🎓 **Honors Graduate** in Software Engineering from Al Ain University (3.81 CGPA).-->
 <br>- 🏆 Proud recipient of many awards in diverse fields of Software Engineering.</p>
 
+</details>
 
 ###
 
 ## 🔭 I'm currently working on
-
 
 <table>
   <tr>
@@ -66,15 +68,21 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
   </tr>
 </table>
 
+###
 
 ## 🌱 I’m currently learning
+<details>
+<summary>❯ View details</summary>
+
+<br> <!-- Ensures markdown parsing for list -->
 
 * Improving my knowledge of **web application security**.
-
 * Learning also rigorous testing through **Test-Driven Development (TDD)**.
-
 * Focusing more on **database performance tuning** (PostgreSQL/MySQL) trying to use Apache Kafka.
 
+</details>
+
+###
 
 <h2 align="left">🛠️ Technical Skills</h2>
 
@@ -178,10 +186,13 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
 ###
 **Other Skills:** `Matlab`,`Torchvision`, `Scikit-learn`, `REST APIs`, `Bootstrap Studio`, `Spline`, `Data Modelling`, `Agile/Scrum`
 
-<h2 align="left">📊 Stats</h2>
-
-
 ###
+
+<h2 align="left">📊 Stats</h2>
+<details>
+<summary>❯ View details</summary>
+
+<br> <!-- Add a little space after the summary -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eng-M-Abdrabbou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide=contribs&rank_icon=github&hide_border=false" height="150" alt="stats graph"  />
@@ -191,8 +202,9 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eng-M-Abdrabbou&locale=en&hide_title=false&layout=compact&hide=html&langs_count=20&theme=midnight-purple&hide_border=false" height="300" alt="languages graph" />
 </div>
 
-###
+</details>
 
+###
 
 ### ✨ Featured Projects
 
