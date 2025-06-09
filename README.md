@@ -245,7 +245,7 @@
 <td width="50%">
 <h4 align="center">VisionAid 👁️‍🗨️</h4>
 <p align="center">
-  <img src="assets\Photos_0ieqY6zk6V.jpg" alt="VisionAid Demo" width="200"/> <!-- Optional: Project Image/GIF -->
+  <img src="assets\Photos_0ieqY6zk6V.jpg" alt="VisionAid Demo" width="200" height="200"/> <!-- Optional: Project Image/GIF -->
 </p>
 <p>A cross-platform mobile app (Flutter) providing real-time visual assistance for the visually impaired using a multi-modal AI pipeline (object/hazard detection, scene analysis, OCR).</p>
 <p><strong>🚀 Key Achievement:</strong> 92% detection accuracy & 40% reduction in alert latency.</p>
@@ -258,7 +258,7 @@
 <td width="50%">
 <h4 align="center">BASYS - Biometric Attendance System ⏱️</h4>
 <p align="center">
-  <img src="assets\Dshbrd.png" alt="BASYS Demo" width="200"/> <!-- Optional: Project Image/GIF -->
+  <img src="assets\Dshbrd.png" alt="BASYS Demo" width="400" height="200"/> <!-- Optional: Project Image/GIF -->
 </p>
 <p>Revolutionized HR attendance tracking, cutting critical operation time from 2 days to under 25 seconds via optimized algorithms and real-time processing.</p>
 <p><strong>🚀 Key Achievement:</strong> >95% performance improvement & 99.9% data accuracy.</p>
@@ -273,7 +273,7 @@
 <td width="50%">
 <h4 align="center">StreamHUB 🎬</h4>
 <p align="center">
-  <img src="assets\Picture1.png" alt="StreamHUB Demo" width="200"/> <!-- Optional: Project Image/GIF -->
+  <img src="assets\Picture1.png" alt="StreamHUB Demo" width="400" height="200"/> <!-- Optional: Project Image/GIF -->
 </p>
 <p>An AI-powered streaming platform featuring content/item-based recommendations, real-time chat, forums, and robust admin controls.</p>
 <p><strong>🚀 Key Feature:</strong> Personalized user experience through advanced AI filtering.</p>
@@ -286,7 +286,7 @@
 <td width="50%">
 <h4 align="center">Weather Forecast & Analysis App ☀️🌧️</h4>
 <p align="center">
-  <img src="assets\WthrInfo.png" alt="Weather App Demo" width="200"/> <!-- Optional: Project Image/GIF -->
+  <img src="assets\WthrInfo.png" alt="Weather App Demo" width="400" height="200"/> <!-- Optional: Project Image/GIF -->
 </p>
 <p>A full-stack weather application with a ReactJS frontend and Java Spring Boot backend. Search weather by city, view current conditions, 5-day/3-hour forecasts, air quality index, and interactive map.</p>
 <p><strong>🚀 Key Feature:</strong> Real-time weather data, AQI, and interactive mapping via OpenWeatherMap API.</p>
