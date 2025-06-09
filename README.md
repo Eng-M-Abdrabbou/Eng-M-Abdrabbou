@@ -1,34 +1,42 @@
 <!--<h2 align="center">Hi 👋! My name is Mahmoud Abdrabbou</h2>-->
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=D81AED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B!+My+name+is+Mahmoud+Abdrabbou;Welcome+to+my+Github+profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=7000&pause=2000&color=CC00F7&center=true&width=1100&height=50&lines=Sisyphus+is+Happily+Rolling+the+Stone%2C+and+So+Am+I;Possibilities.*;This+statement+cannot+be+proven!;There+is+no+royal+road+to+geometry.;The+Map+is+Not+the+Territory;Standing+on+the+shoulders+of+Giants." alt="Typing SVG" /></a>
 </div>
-<!-- <h3 align="center"> A Software Engineer </h3> -->
 
 ###
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  />
+ <p><img height="100" style: src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  /><p/> 
 </div>
 
 ###
-
 <h2 align="left">🙋‍♂️ About me</h2>
 
 ###
 
-<p align="left">A <span style="font-weight: bold;">Software Engineer</span> specializing in <b>Full Stack Development</b> and <b>AI/ML Integration</b>, based in Abu Dhabi, UAE  🇦🇪.
-<br>
-I'm passionate about crafting efficient, scalable, and user-centric software solutions that solve real-world problems. I thrive in dynamic environments and enjoy leveraging technology to drive innovation and performance improvements.</p>
+<p align="left">
+  Software Engineer with expertise in Full-stack development and AI/ML integration, based in Abu Dhabi, UAE 🇦🇪.  <br/>
+  Experienced in  
+  <span style="color: #F7DF1E;">JavaScript</span>,  
+  <span style="color: #3178C6;">TypeScript</span>,  
+  <span style="color: #339933;">Node.js</span>,  
+  <span style="color: #000000;">Express.js</span>,  
+  <span style="color: #61DAFB;">React.js</span>, and  
+  <span style="color: #000000;">Next.js</span>.  
+  <br/>
+  Building reliable and efficient software solutions that address practical challenges. <br/>
+  Enjoy problem-solving and using technology to improve systems and workflows (especially).
+</p>
 
 ###
 
 <h2 align="left">🚀 A Little More About Me</h2>
 <details>
-<summary>❯ View details</summary>
+<summary> View details</summary>
 
 <br> <!-- Add a little space after the summary for visual separation -->
 
-<p align="left">- 🔭 I’m currently working as a <b>Software Engineer (Full Stack & AI/ML Eng)</b> @ <b>IEEE</b>, focusing on impactful projects like <b>VisionAid</b>.
+<p align="left">- 🔭 I’m currently working as a <b>Software Engineer (Full Stack & AI/ML Eng)</b> @ <b>IEEE</b>, focusing on impactful projects like <b>VisionAid aka BlinkAI</b>.
 
 <br>- 🌱 I’m continuously exploring advanced **AI/ML techniques**, **scalable cloud architectures (AWS, Kubernetes)**, and **distributed systems**.
 
@@ -72,7 +80,7 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
 
 ## 🌱 I’m currently learning
 <details>
-<summary>❯ View details</summary>
+<summary> View details</summary>
 
 <br> <!-- Ensures markdown parsing for list -->
 
@@ -88,7 +96,31 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
 
 ###
 
-<div align="center">
+### Core Stack: 
+<div align="Left">
+
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <p>
+</div>
+
+
+### Tools and Skills: 
+<div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -190,7 +222,7 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
 
 <h2 align="left">📊 Stats</h2>
 <details>
-<summary>❯ View details</summary>
+<summary> View details</summary>
 
 <br> <!-- Add a little space after the summary -->
 
@@ -278,9 +310,14 @@ I'm passionate about crafting efficient, scalable, and user-centric software sol
 
 
 ### 🏆 **Profile Trophies**
+<details>
+  <summary>View GitHub Trophies 🎖️</summary>
+  
+  <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eng-M-Abdrabbou&theme=dark_lover&no-bg=true&rank=-C&margin-w=25&title=-issues,-pullrequests,-reviews)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Eng-M-Abdrabbou&theme=dark_lover&no-bg=true&rank=-C&margin-w=25&title=-issues,-pullrequests,-reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
+</details>
 
 
 
