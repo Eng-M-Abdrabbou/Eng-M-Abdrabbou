@@ -71,7 +71,7 @@
     </td>
     <td valign="top">
       <p align="center">
-        <img src="assets\SNX.png" alt="Screenshot of Next.js Portfolio" width="290" height="290" />
+        <img src="assets\SNX.png" alt="Screenshot of Sonix" width="280" height="290" />
       </p>
       SONIX: <br> A high-speed speech processing engine that captures and converts spoken words into highly accurate text in real time using advanced linguistic modeling.
     </td>
