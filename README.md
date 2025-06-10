@@ -17,12 +17,15 @@
 <p align="left">
   Software Engineer with expertise in Full-stack development and AI/ML integration, based in Abu Dhabi, UAE 🇦🇪.  <br/>
   Experienced in  
-<span style="color: #F7DF1E;"><b>JavaScript</b></span>,
-<span style="color: #3178C6;"><b>TypeScript</b></span>,
-<span style="color: #339933;"><b>Node.js</b></span>,
-<span style="color: #000000;"><b>Express.js</b></span>,
-<span style="color: #61DAFB;"><b>React.js</b></span>, and
-<span style="color: #000000;"><b>Next.js</b></span>.
+<span style="color: #F7DF1E;"><b>JavaScript</b></span>,  
+<span style="color: #3178C6;"><b>TypeScript</b></span>,  
+<span style="color: #339933;"><b>Node.js</b></span>,  
+<span style="color: #000000;"><b>Express.js</b></span>,  
+<span style="color: #61DAFB;"><b>React.js</b></span>,  
+<span style="color: #000000;"><b>Next.js</b></span>,  
+<span style="color: #854F6C;"><b>OAuth 2.0</b></span> and <span style="color: #FF5722;"><b>RESTful APIs</b></span>,  
+<span style="color: #FFCC00;"><b>JWT</b></span> and <span style="color: #47A248;"><b>MongoDB</b></span>,  
+<span style="color: #336791;"><b>PostgreSQL</b></span>.  
   <br/>
   Building reliable and efficient software solutions that address practical challenges. <br/>
   Enjoy problem-solving and using technology to improve systems and especially workflows.
