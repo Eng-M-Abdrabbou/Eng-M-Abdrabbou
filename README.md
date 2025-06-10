@@ -71,10 +71,9 @@
     </td>
     <td valign="top">
       <p align="center">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2diZjU5dTFxaWNtdjhlMGRtZnI2dGFnMXUzYnBmejYxZ3dpYWp6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abDnUPDkOC05QU8/giphy.gif" alt="Screenshot of Next.js Portfolio" width="300"/>
-        <br/> under construction
+        <img src="assets\SNX.png" alt="Screenshot of Next.js Portfolio" width="400" />
       </p>
-      Enhancing my Personal Portfolio Website: <br> Boosting performance and adding new interactive features using Next.js.
+      SONIX: <br> A high-speed speech processing engine that captures and converts spoken words into highly accurate text in real time using advanced linguistic modeling.
     </td>
   </tr>
 </table>
