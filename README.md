@@ -25,7 +25,7 @@
 <span style="color: #000000;"><b>Next.js</b></span>.
   <br/>
   Building reliable and efficient software solutions that address practical challenges. <br/>
-  Enjoy problem-solving and using technology to improve systems and workflows (especially).
+  Enjoy problem-solving and using technology to improve systems and especially workflows.
 </p>
 
 ###
