@@ -59,25 +59,25 @@
   <tr>
     <td valign="top">
       <p align="center">
-        <img src="assets\Nexus.png" alt="Nexus Predictive Harmonizer Diagram/Concept" width="400"/>
+        <img src="assets\Nexus.png" alt="Nexus Predictive Harmonizer Diagram/Concept" width="400" height="250"/>
       </p>
       Nexus Predictive Harmonizer: <br> An engine for detecting anomalies in real-time from complex data streams using advanced inference techniques.
     </td>
     <td valign="top">
       <p align="center">
-        <img src="assets\CC.png" alt="Cosmic Canvas UI/3D Model Screenshot" width="400"/>
+        <img src="assets\CC.png" alt="Cosmic Canvas UI/3D Model Screenshot" width="400" height="250"/>
       </p>
       Cosmic Canvas: <br> A full-stack e-commerce platform using Spring Boot (Backend), React.js (Frontend), and Three.js for cool 3D product views.
     </td>
     <td valign="top">
       <p align="center">
-        <img src="assets\SNX.png" alt="Screenshot of Sonix" width="280" height="290" />
+        <img src="assets\SNX.png" alt="Screenshot of Sonix" width="400" height="250"/>
       </p>
       SONIX: <br> A high-speed speech processing engine that captures and converts spoken words into highly accurate text in real time using advanced linguistic modeling.
     </td>
     <td valign="top">
       <p align="center">
-        <img src="assets\La Bibliothèque de Babel.png" alt="Screenshot of Next.js Portfolio" width="400" />
+        <img src="assets\La Bibliothèque de Babel.png" alt="Screenshot of Next.js Portfolio" width="400" height="250"/>
       </p>
       La Bibliothèque de Babel: <br> A digital reimagining of Borges' infinite library, where every possible book exists within a vast algorithmic universe.
     </td>
