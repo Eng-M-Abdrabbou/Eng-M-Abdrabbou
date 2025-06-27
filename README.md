@@ -75,6 +75,12 @@
       </p>
       SONIX: <br> A high-speed speech processing engine that captures and converts spoken words into highly accurate text in real time using advanced linguistic modeling.
     </td>
+    <td valign="top">
+      <p align="center">
+        <img src="assets\La Bibliothèque de Babel.png" alt="Screenshot of Next.js Portfolio" width="400" />
+      </p>
+      La Bibliothèque de Babel: <br> A digital reimagining of Borges' infinite library, where every possible book exists within a vast algorithmic universe.
+    </td>
   </tr>
 </table>
 
