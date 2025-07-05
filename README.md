@@ -1,4 +1,4 @@
-<!--<h2 align="center">Hi 👋! My name is Mahmoud Abdrabbou</h2>-->
+<!-- <h2 align="center">Hi 👋! name is Mahmoud</h2> -->
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=7000&pause=2000&color=CC00F7&center=true&width=1100&height=50&lines=Sisyphus+is+Happily+Rolling+the+Stone%2C+and+So+Am+I;Possibilities.*;This+statement+cannot+be+proven!;There+is+no+royal+road+to+geometry.;The+Map+is+Not+the+Territory;Standing+On+The+Shoulders+Of+Giants." alt="Typing SVG" /></a>
 </div>
@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
- <p><img height="100" style: src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  /><p/> 
+ <p><img height="50" style: src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" /><p/> 
 </div>
 
 ###
