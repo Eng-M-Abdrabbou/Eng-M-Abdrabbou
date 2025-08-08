@@ -39,7 +39,7 @@
 
 <br> <!-- Add a little space after the summary for visual separation -->
 
-<p align="left">- 🔭 I’m currently working as a <b>Software Engineer (Full Stack & AI/ML Eng)</b> @ <b>IEEE</b>, focusing on impactful projects like <b>VisionAid aka BlinkAI</b>.
+<!-- <p align="left">- 🔭 I’m currently working as a <b>Software Engineer (Full Stack & AI/ML Eng)</b> @ <b>IEEE</b>, focusing on impactful projects like <b>VisionAid aka BlinkAI</b>. -->
 
 <br>- 🌱 I’m continuously exploring advanced **AI/ML techniques**, **scalable cloud architectures (AWS, Kubernetes)**, and **distributed systems**.
 
@@ -289,3 +289,4 @@
 </div> -->
 
 ###
+
