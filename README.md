@@ -61,25 +61,25 @@
       <p align="center">
         <img src="assets\Nexus.png" alt="Nexus Predictive Harmonizer Diagram/Concept" width="400" height="200"/>
       </p>
-      Nexus Predictive Harmonizer: <br> An engine for detecting anomalies in real-time from complex data streams using advanced inference techniques.
+      Nexus Predictive Harmonizer: <br> An engine for detecting anomalies in real-time from complex data streams using advanced inference techniques. (still in the oven⚒️)
     </td>
     <td valign="top">
       <p align="center">
         <img src="assets\CC.png" alt="Cosmic Canvas UI/3D Model Screenshot" width="400" height="200"/>
       </p>
-      Cosmic Canvas: <br> A full-stack e-commerce platform using Spring Boot (Backend), React.js (Frontend), and Three.js for cool 3D product views.
+      Cosmic Canvas: <br> A full-stack e-commerce platform using Spring Boot (Backend), React.js (Frontend), and Three.js for cool 3D product views. (still in the oven⚒️)
     </td>
     <td valign="top">
       <p align="center">
         <img src="assets\SNX.png" alt="Screenshot of Sonix" width="400" height="200"/>
       </p>
-      SONIX: <br> A high-speed speech processing engine that captures and converts spoken words into highly accurate text in real time using advanced linguistic modeling.
+      <a href="https://github.com/Eng-M-Abdrabbou/Sonix" target="_blank"> SONIX: </a> <br> A high-speed speech processing engine that captures and converts spoken words into highly accurate text in real time using advanced linguistic modeling.
     </td>
     <td valign="top">
       <p align="center">
         <img src="assets\La Bibliothèque de Babel.png" alt="Screenshot of Next.js Portfolio" width="400" height="200"/>
       </p>
-      La Bibliothèque de Babel: <br> A digital reimagining of Borges' infinite library, where every possible book exists within a vast algorithmic universe.
+      <a href="https://github.com/Eng-M-Abdrabbou/La_Bibliotheque_de_Babel" target="_blank"> La Bibliothèque de Babel:</a> <br> A digital reimagining of Borges' infinite library, where every possible book exists within a vast algorithmic universe.
     </td>
   </tr>
 </table>
@@ -289,4 +289,5 @@
 </div> -->
 
 ###
+
 
