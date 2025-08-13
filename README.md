@@ -249,12 +249,12 @@
 
 ---
 
-
+<!-- 
 ### **Profile views**
 <div align="center">
   <img src="https://profile-counter.glitch.me/Eng-M-Abdrabbou/count.svg?"  />
 </div>
-
+-->
 
 
 ### 🏆 **Profile Trophies**
@@ -289,5 +289,6 @@
 </div> -->
 
 ###
+
 
 
