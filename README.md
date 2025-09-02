@@ -10,6 +10,7 @@
 </div>
 
 ###
+<!--
 <h2 align="left">🙋‍♂️ About me</h2>
 
 ###
@@ -32,25 +33,25 @@
 </p>
 
 ###
-
+<!-- <div align="center">
 <h2 align="left">🚀 A Little More About Me</h2>
 <details>
 <summary> View details</summary>
 
-<br> <!-- Add a little space after the summary for visual separation -->
+<br> <!-- Add a little space after the summary for visual separation 
 
-<!-- <p align="left">- 🔭 I’m currently working as a <b>Software Engineer (Full Stack & AI/ML Eng)</b> @ <b>IEEE</b>, focusing on impactful projects like <b>VisionAid aka BlinkAI</b>. -->
+<!-- <p align="left">- 🔭 I’m currently working as a <b>Software Engineer (Full Stack & AI/ML Eng)</b> @ <b>IEEE</b>, focusing on impactful projects like <b>VisionAid aka BlinkAI</b>. 
 
 <br>- 🌱 I’m continuously exploring advanced **AI/ML techniques**, **scalable cloud architectures (AWS, Kubernetes)**, and **distributed systems**.
 
 <br>- 🎯 Driven by building accessible technology, like the **VisionAid** app helping visually impaired users navigate their environment with **92% accuracy**.
 
 <br>- 💡 Proven ability to dramatically improve system performance, evidenced by reducing HR processing time from **48 hours to under 25 seconds** for the BASYS project.
-<!-- <br>- 🎓 **Honors Graduate** in Software Engineering from Al Ain University (3.81 CGPA).-->
+<!-- <br>- 🎓 **Honors Graduate** in Software Engineering from Al Ain University (3.81 CGPA).
 <br>- 🏆 Proud recipient of many awards in diverse fields of Software Engineering.</p>
 
 </details>
-
+-->
 ###
 
 ## 🔭 I'm currently working on
@@ -85,19 +86,19 @@
 </table>
 
 ###
-
+<!--
 ## 🌱 I’m currently learning
 <details>
 <summary> View details</summary>
 
-<br> <!-- Ensures markdown parsing for list -->
+<br> 
 
 * Improving my knowledge of **web application security**.
 * Learning also rigorous testing through **Test-Driven Development (TDD)**.
 * Focusing more on **database performance tuning** (PostgreSQL/MySQL) trying to use Apache Kafka.
 
 </details>
-
+-->
 ###
 
 <h2 align="left">🛠️ Technical Skills</h2>
@@ -116,7 +117,7 @@
 </div>
 
 ---
-
+<!-- Ensures markdown parsing for list 
 ### Tools and Skills:
 <div align="left">
 
@@ -162,7 +163,7 @@
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" alt="arduino logo" width="40" />
   <img src="https://cdn.simpleicons.org/apple/000000" height="30" alt="apple logo" width="40" />
 </div>
-
+-->
 ###
 **Other Skills:** `Matlab`,`Torchvision`, `Scikit-learn`, `REST APIs`, `Bootstrap Studio`, `Spline`, `Data Modelling`, `Agile/Scrum`
 
@@ -289,6 +290,7 @@
 </div> -->
 
 ###
+
 
 
 
